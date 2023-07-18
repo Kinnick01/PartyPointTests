@@ -2,7 +2,7 @@
 This is a private project's tests.
 
 
-If you would like to access the my project please reach out to me at:
+If you would like to access the project please reach out to me at:
 krausadam21@gmail.com and I will send you the necessary data.
 
 How to run the project:
